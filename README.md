@@ -78,7 +78,7 @@
   </a>
 </div>
 
-This is Retrospect, a mobile application that conducts cryptocurrency analysis through social metrics. 
+This is Retrospect, a mobile application that conducts cryptocurrency analysis through social metrics. This repo has Retrospect until version 1.0.4. Higher versions will not be public. 
 
 Key analysis metrics:
 * Twitter Activity
