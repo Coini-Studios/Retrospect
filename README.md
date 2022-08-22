@@ -18,7 +18,7 @@
     <img src="https://i.postimg.cc/26yTSgvq/Retro-Spect-Trans.png" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">Retrospect</h3>
+  <h1 align="center">Retrospect</h1>
   <h4 align="center">https://linktr.ee/retrospectapp</h4>
 
   <p align="center">
