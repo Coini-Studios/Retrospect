@@ -139,7 +139,7 @@ Retrospect helps investors make more thorough decisions by giving them another l
 <!-- LICENSE -->
 ## License
 
-Distributed under the Attribution-ShareAlike 4.0 International License. See `LICENSE.txt` for more information.
+Distributed under the Attribution-NonCommercial-ShareAlike 4.0 International License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,9 +148,9 @@ Distributed under the Attribution-ShareAlike 4.0 International License. See `LIC
 <!-- CONTACT -->
 ## Contact
 
-Bill Xu - xubill0707@gmail.com
+support@retrospectapps.com
 
-Project Link: https://bx07.github.io
+website: https://www.retrospectapps.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
