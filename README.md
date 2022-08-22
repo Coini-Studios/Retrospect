@@ -93,7 +93,7 @@ Key analysis metrics:
 
 To get started, simply download the app on google play or the app store.
 URLs: 
-* https://play.google.com/store/apps/details?id=com.cryptos.crypto_app 
+*  [Google Play](https://play.google.com/store/apps/details?id=com.cryptos.crypto_app)
 * coming soon
 
 
