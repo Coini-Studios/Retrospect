@@ -24,9 +24,9 @@
     An application for cryptocurrency analysis through social metrics. 
     <br />
     <br />
-    <a href="https://github.com/bx07/Retrospect/issues">Report Bug</a>
+    <a href="https://github.com/Coini-Studios/Retrospect/issues">Report Bug</a>
     ·
-    <a href="https://github.com/bx07/Retrospect/issues">Request Feature</a>
+    <a href="https://github.com/Coini-Studios/Retrospect/issues">Request Feature</a>
   </p>
 </div>
 
