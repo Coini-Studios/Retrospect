@@ -144,12 +144,3 @@ website: https://www.retrospectapps.com
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/bx07/Retrospect.svg?style=for-the-badge
-[contributors-url]: https://github.com/bx07/Retrospect/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/bx07/Retrospect.svg?style=for-the-badge
-[stars-url]: https://github.com/bx07/Retrospect/stargazers
-[issues-shield]: https://img.shields.io/github/issues/bx07/Retrospect.svg?style=for-the-badge
-[issues-url]: https://github.com/bx07/Retrospect/issues
-[product-screenshot]: images/screenshot.png
