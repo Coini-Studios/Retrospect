@@ -14,11 +14,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://i.postimg.cc/26yTSgvq/Retro-Spect-Trans.png">
+  <a href="https://linktr.ee/retrospectapp">
     <img src="https://i.postimg.cc/26yTSgvq/Retro-Spect-Trans.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Retrospect</h3>
+  <h4 align="center">https://linktr.ee/retrospectapp</h4>
 
   <p align="center">
     An application for cryptocurrency analysis through social metrics. 
